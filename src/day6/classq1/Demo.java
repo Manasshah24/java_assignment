@@ -1,6 +1,6 @@
 package day6.classq1;
 
-import day6.Account1;
+
 
 // Shared Account class
 class Account {
